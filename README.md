@@ -51,6 +51,7 @@ Ensure you have the following installed:
 
 - [Node.js](https://nodejs.org) (v14 or above)
 - [Git](https://git-scm.com/)
+- [Deployed](https://wear60.github.io/Partner_Page/partner.html)
 
 ### Step-by-step guide:
 
